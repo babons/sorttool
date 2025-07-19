@@ -12,3 +12,5 @@ A command-line utility written in C to read, store, and sort user-input lines. S
 Compile with GCC:  
 ```bash
 gcc -o sorttool main.c io.c sort.c
+```
+This is pulled from my c-playground repo.
