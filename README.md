@@ -1,3 +1,4 @@
+*This is pulled from my c-playground repo.
 # SortTool
 
 A command-line utility written in C to read, store, and sort user-input lines. Supports sorting alphabetically (case-insensitive) or by line length and includes a simple text-based menu for interaction.  
@@ -13,4 +14,3 @@ Compile with GCC:
 ```bash
 gcc -o sorttool main.c io.c sort.c
 ```
-This is pulled from my c-playground repo.
